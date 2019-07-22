@@ -6,7 +6,7 @@ Name : Ng Mee Wai
 
 Matric Number : 254301
 
-Education : Universiti Utara Malaysia (UUM) (also recognize as _Northern University of Malaysia_)
+Education : Universiti Utara Malaysia (UUM) (also recognize as [_Northern University of Malaysia_](http://www.uum.edu.my/))
 
 # Introduction
 
