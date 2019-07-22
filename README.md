@@ -36,7 +36,7 @@ In this assignment, we are required to read and analyze the file by using MAVEN 
 
 # UML Class Diagram
 
->![254301](https://user-images.githubusercontent.com/38762366/55496349-6ce8cc80-5671-11e9-9f94-0c203ca77a62.JPG)
+![254301](https://user-images.githubusercontent.com/38762366/55496349-6ce8cc80-5671-11e9-9f94-0c203ca77a62.JPG)
 
 # References
 
