@@ -6,8 +6,6 @@ Name : Ng Mee Wai
 
 Matric Number : 254301
 
-Education : Universiti Utara Malaysia (UUM) (also recognize as [_Northern University of Malaysia_](http://www.uum.edu.my/))
-
 # Introduction
 
 In this assignment, we are required to read and analyze the file by using MAVEN and Java programming language to generate the following output using FIVE (5) threads:
